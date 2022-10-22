@@ -14,7 +14,7 @@ int main(void)
 	/*
 	 * while (i < 10)
 	 * {
-	 * purchart(i);
+	 *	 purchart(i);
 	 * }
 	 */
 	printf("infinite loop avoided! \\o/\n");
